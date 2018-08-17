@@ -33,7 +33,7 @@ N/A
 DAY09:
 ex00: OK | ex01: KO | ex02: KO
 
-DAY10: (French servers were down)
+DAY10:(French servers were down)
 ex00: OK | ex01: OK | ex02: Norme error | ex03: OK | ex04: Norme error | ex05: Norme error
 
 DAY11:
