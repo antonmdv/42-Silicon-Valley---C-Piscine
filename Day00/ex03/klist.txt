@@ -1,0 +1,5 @@
+Credentials cache: API:38857
+        Principal: amedvede@42.US.ORG
+
+  Issued                Expires               Principal
+Jul 23 16:32:14 2018  Jul 24 02:32:14 2018  krbtgt/42.US.ORG@42.US.ORG
